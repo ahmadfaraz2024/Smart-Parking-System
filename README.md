@@ -6,6 +6,13 @@ A major problem in day to day life is parking of vehicles especially the car par
 2. Store the data received from the sensors on the cloud. 
 3. Access the data on the cloud through a mobile application and a web application.
 
+# System Archtiecture
 ![Architecture](/Images/parking.jpg)
+
+# System Archtiecture
+
+# The Hardware Setup
 ![hardware setup](/Images/hardware setup.jpg)
-![parking](/Images/parking.jpg)
+
+# A Simple User Interface Implementation
+![parking](/Images/calculation.jpg)
