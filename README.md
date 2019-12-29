@@ -9,10 +9,8 @@ A major problem in day to day life is parking of vehicles especially the car par
 # System Archtiecture
 ![Architecture](/Images/parking.jpg)
 
-# System Archtiecture
-
 # The Hardware Setup
-![hardware setup](/Images/hardware setup.jpg)
+![hardware setup](/Images/hardware.jpg)
 
 # A Simple User Interface Implementation
 ![parking](/Images/calculation.jpg)
